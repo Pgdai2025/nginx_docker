@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         GIT_REPOSITORY_URL = 'https://github.com/Pgdai2025/nginx_docker.git'
-        DOCKER_IMAGE_NAME = 'Pgdai2025/nginx_docker'
+        DOCKER_IMAGE_NAME = 'akhileshajinkya/nginx_docker'
         IMAGE_TAG = '1.0'
     }
 
